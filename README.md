@@ -4,9 +4,9 @@
 
 ## I'm a Student, Developer, IT Engineer 💻!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 🤣 jokes apart currently learning Django 🤑🌐
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Draw and Travelling🏄‍♂️📷
 
 ### Connect with me:
