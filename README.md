@@ -53,10 +53,10 @@
 
 ### Repositories:
 
+[![url_shortner](https://github-readme-stats.vercel.app/api/pin/?username=ironsubhajit&repo=url_shortner&theme=dark&hide_border=true)](https://github.com/ironsubhajit/url_shortner)
 [![WebScraping Repo](https://github-readme-stats.vercel.app/api/pin/?username=ironsubhajit&repo=WebScraping&theme=dark&hide_border=true)](https://github.com/ironsubhajit/WebScraping)
 [![Browser_Automation_selenium Repo](https://github-readme-stats.vercel.app/api/pin/?username=ironsubhajit&repo=Browser_Automation_selenium&theme=dark&hide_border=true)](https://github.com/ironsubhajit/Browser_Automation_selenium)
 [![Python_Projects Repo](https://github-readme-stats.vercel.app/api/pin/?username=ironsubhajit&repo=Python_Projects&theme=dark&hide_border=true)](https://github.com/ironsubhajit/Python_Projects)
-[![data_stucture_C Repo](https://github-readme-stats.vercel.app/api/pin/?username=ironsubhajit&repo=data_stucture_C&theme=dark&hide_border=true)](https://github.com/ironsubhajit/data_stucture_C)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ironsubhajit&layout=compact&theme=dark&hide_border=true)
