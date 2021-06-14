@@ -1,6 +1,6 @@
 ### Hi there, I'm Subhajit - aka [ironsubhajit][website] 👋😎
 
-![Profile views](https://gpvc.arturio.dev/ironsubhajit)
+![](https://komarev.com/ghpvc/?username=ironsubhajit&color=46bcde&style=plastic&label=Profile+Views)
 
 ## I'm a Student, Developer, IT Engineer 💻!!
 
